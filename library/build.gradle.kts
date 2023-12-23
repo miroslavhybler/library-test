@@ -51,7 +51,7 @@ afterEvaluate {
                 from (components.getByName("release"))
                 groupId = "mir.oslav.library"
                 artifactId = "test"
-                version = "1.0.0"
+                version = "1.2.0"
             }
 
         }
